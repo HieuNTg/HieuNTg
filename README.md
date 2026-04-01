@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Hieu 👋
+# Hey there! I'm Hiếu 👋
 
 **AI Engineer · Computer Vision · Deep Learning**
 
