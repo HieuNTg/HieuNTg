@@ -42,12 +42,6 @@ I work at the intersection of **Computer Vision**, **Deep Learning**, and **AI-p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuNTg&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HieuNTg&theme=tokyonight&hide_border=true" />
 
 </div>
